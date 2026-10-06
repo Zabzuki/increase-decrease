@@ -36,3 +36,7 @@ zero, and Null sets it back to zero. The value renders in an MUI `Typography`
 heading.
 
 Bootstrapped with Create React App.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
