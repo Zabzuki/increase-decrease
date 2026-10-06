@@ -5,6 +5,8 @@ zero) and reset to zero.
 
 ![Counter demo](docs/media/increase-decrease-demo.gif)
 
+*Increment raises the count, Decrement lowers it (stopping at zero), and Null resets it back to zero.*
+
 ## Features
 
 - **Increment** — raise the count by one.
