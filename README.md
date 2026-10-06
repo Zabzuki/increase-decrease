@@ -3,6 +3,8 @@
 A small React counter built with Material-UI: increment, decrement (never below
 zero) and reset to zero.
 
+![Counter demo](docs/media/increase-decrease-demo.gif)
+
 ## Features
 
 - **Increment** — raise the count by one.
